@@ -58,12 +58,14 @@ Practical exercises and personal projects focused on understanding networks, sys
 
 *Individual labs and tools will be linked here as they are documented and published.*
 
+<!-- 
 ### 🖥️ JavaFX Adventure Project
 A JavaFX-based project exploring desktop application development and interactive user interfaces.
 
 **Technologies:** Java · JavaFX
 
-<!-- [Explore my repositories](https://github.com/DiegoDomSan?tab=repositories) -->
+[Explore my repositories](https://github.com/DiegoDomSan?tab=repositories) 
+-->
 
 ---
 
