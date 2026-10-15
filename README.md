@@ -36,6 +36,6 @@ I'm continuously strengthening my foundations in networking, cybersecurity, and 
 
 ## Contact
 
-- **Email: dieguitolucky1@icloud.com
+- **Email:** dieguitolucky1@icloud.com
 - **LinkedIn:** [Diego Domínguez Sánchez](https://www.linkedin.com/in/diegodominguezsanchez/)
 - **GitHub:** [DiegoDomSan](https://github.com/DiegoDomSan)
