@@ -18,6 +18,7 @@ I'm currently expanding my knowledge of networking, Python and cybersecurity thr
 - **Maven:** Java project management and dependency handling.
 - **Python:** Programming fundamentals and continued learning, including preparation for PCAP certification.
 - **C++:** Programming fundamentals and object-oriented concepts.
+- **Dart & Flutter:** Currently learning Dart and Flutter to explore cross-platform mobile application development.
 
 ### 🔌 Hardware & Embedded Systems
 - **ESP32:** Microcontroller-based projects and hardware integration.
@@ -48,7 +49,7 @@ A Java desktop application built with Maven and Swing, integrating an ESP32-base
 
 This project reflects my interest in application development, device communication and the integration of software with physical hardware.
 
-[View repository](https://github.com/DiegoDomSan)
+<!-- [View repository](https://github.com/DiegoDomSan) -->
 
 ### 🌐 Networking & Cybersecurity Labs
 Practical exercises and personal projects focused on understanding networks, system behavior and cybersecurity concepts.
@@ -62,7 +63,7 @@ A JavaFX-based project exploring desktop application development and interactive
 
 **Technologies:** Java · JavaFX
 
-[Explore my repositories](https://github.com/DiegoDomSan?tab=repositories)
+<!-- [Explore my repositories](https://github.com/DiegoDomSan?tab=repositories) -->
 
 ---
 
@@ -80,6 +81,7 @@ A JavaFX-based project exploring desktop application development and interactive
 
 - **Spanish:** Native
 - **English:** C1 Advanced — Cambridge English
+- **German:** A1 (Currently studying in Germany, Stuttgart)
 
 ---
 
